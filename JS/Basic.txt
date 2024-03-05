@@ -1,0 +1,29 @@
+Js can used in both frontend and backend 
+
+JS runtime environment : NodeJS / DenoJS
+
+Deno : Deno is a brand new JavaScript runtime, similar to Node.js. Use it to develop secure server-side apps with built-in TypeScript support, ES modules, and promise-based APIs. 
+
+Founder and creator of Deno and NodeJs : Ryan Dahl
+
+How to run JS file : node <filename>.js
+
+----------------------------------------------------------
+
+variable declaration:
+
+keywords:
+const 
+let 
+var 
+
+--------------------------------------------------------
+
+console.table([<name of all variables which you want to print])
+--> Using this we able to print all variable to gether and in good formate
+
+--------------------------------------------------------
+block scope:
+
+funcational scope:
+
